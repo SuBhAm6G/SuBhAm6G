@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">✨ Welcome to Subham's World! ✨</h1>
 
-<!--
-**SuBhAm6G/SuBhAm6G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> Based in INDIA 🇮🇳 | 🌟 Fueled by curiosity and persistence</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">🚀 Languages & Tools</h2>
+<p align="center">
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42" />
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Insights</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SuBhAm6G&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuBhAm6G&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuBhAm6G&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+<h2 align="center">🏆 Achievements</h2>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=SuBhAm6G&theme=gruvbox&margin-w=5" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">🌟 About Me</h2>
+<p align="center">I’m on an exciting journey to master programming and create meaningful projects. Whether it's delving deep into pointers and dynamic arrays, exploring the applications of UV spectroscopy, or crafting interactive games, I love learning by doing!</p>
+
+---
+
+<h2 align="center">📬 Connect with Me!</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/subham-profile" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue" alt="LinkedIn" />
+  </a>
+  <a href="mailto:subham6g@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-red" alt="Email" />
+  </a>
+</p>
+<br clear="both">
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
