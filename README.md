@@ -39,7 +39,7 @@
 ---
 
 <h2 align="center">🌟 About Me</h2>
-<p align="center">I’m on an exciting journey to master programming and create meaningful projects. Whether it's delving deep into pointers and dynamic arrays, exploring the applications of UV spectroscopy, or crafting interactive games, I love learning by doing!</p>
+<p align="center">I’m on an exciting journey to master programming and create meaningful projects. Whether it's delving deep into pointers and dynamic arrays, crafting interactive games, I love learning by doing!</p>
 
 ---
 
