@@ -45,10 +45,10 @@
 
 <h2 align="center">📬 Connect with Me!</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/subham-profile" target="_blank">
+  <a href="www.linkedin.com/in/subham-6g-8a6aa531a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue" alt="LinkedIn" />
   </a>
-  <a href="mailto:subham6g@example.com" target="_blank">
+  <a href="subhamdharoff@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-red" alt="Email" />
   </a>
 </p>
