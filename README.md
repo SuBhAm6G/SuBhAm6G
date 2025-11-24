@@ -20,9 +20,9 @@
 ---
 
 <h2 align="center">📊 GitHub Insights</h2>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SuBhAm6G&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuBhAm6G&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" />
 </p>
